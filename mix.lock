@@ -1,0 +1,3 @@
+%{
+  "bmark": {:hex, :bmark, "1.0.3", "516e4383fbf6128b580925336ae2ccda50ecb68ce393d72a04b152165ce87df4", [:mix], [], "hexpm", "243b04d2e2431d01d93f442896d5e6ee52396782c161ef0a0e4f51a353393d93"},
+}
